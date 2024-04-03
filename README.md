@@ -1,5 +1,3 @@
-### Hi there, I'm ThakkuGod - aka (TG) 👋
-
 # Instructions
 - Run `npm install` to install all dependencies
 - Open `config.json` update the values
