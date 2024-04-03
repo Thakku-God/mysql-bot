@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mariadb": "^3.2.3",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.0.3"
+  },
+  "name": "thakkugod",
+  "version": "1.0.0",
+  "description": "Fivem Database Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping",
+    "dev": "nodemon index.js"
+  },
+  "author": "ThakkuGod",
+  "license": "ISC"
+}
